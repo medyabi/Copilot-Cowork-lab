@@ -1,0 +1,9 @@
+title: Enterprise AI Automation with Microsoft 365 Copilot Cowork
+description: Hands-on lab guides for the Copilot Cowork workshop
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
