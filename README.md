@@ -1,6 +1,6 @@
-# Enterprise AI Automation with Microsoft 365 Copilot Cowork
+# AI Automation with Microsoft 365 Copilot Cowork
 
-Lab guides for the **Enterprise AI Automation with Microsoft 365 Copilot Cowork** workshop. Participants move from their first Cowork task to building and publishing their own plugin.
+Lab guides for the **AI Automation with Microsoft Cowork** workshop. Participants move from their first Cowork task to building and publishing their own plugin.
 
 **Read the labs online:** enable GitHub Pages (see below), then open the site's home page for the full content directory.
 
